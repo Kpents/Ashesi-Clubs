@@ -1,0 +1,6 @@
+i intended on creating the UI in html and css and then use php for the database.
+Unfortunately i could not get to the php because I was working alone and I had other projects to work on.
+I intended on contuning this project on my own nonetheless.
+
+
+For the UI i got a template from Color lib and editted it accordingly.
